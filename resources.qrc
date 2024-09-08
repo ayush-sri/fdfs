@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>res/tv-interview-vector-illustration-vector-clipart_csp45553405.jpg</file>
+    <file>res/gift.png</file>
+    <file>res/811804_cinema_512x512.png</file>
+    <file>res/reel.png</file>
+    <file>res/edit.png</file>
+    <file>res/mail.png</file>
+    <file>res/bg popcorn.jpg</file>
+    <file>res/login icon.png</file>
+    <file>res/movdet.png</file>
+    <file>res/user.png</file>
+    <file>res/2-movies-flat-icons-square.jpg</file>
+    <file>res/unnamed.png</file>
+    <file>ui/popcornsplash.gif</file>
+  </qresource>
+</RCC>

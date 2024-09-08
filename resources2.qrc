@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="resource">
+    <file>bg popcorn.jpg</file>
+    <file>login icon.png</file>
+  </qresource>
+</RCC>
